@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "FANTASTIC DISCOTHEQUE",
+  "base_artist": "F-LAGS",
+  "createdAt": "2026-01-14T03:48:39.110765Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FANTASTIC DISCOTHEQUE",
+      "artist": "F-LAGS",
+      "has_synced": false,
+      "path": "select/pl_01_FANTASTIC_DISCOTHEQUE_F-LAGS.txt"
+    }
+  ]
+}
